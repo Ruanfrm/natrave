@@ -38,7 +38,7 @@ Novas melhorias foram realizadas no Front-end, como por exemplo, adicionado noti
 Baixe o repositório com git clone e entre na pasta do projeto.<br/>
 Renomeie os arquivos _.env.example_ para _.env_ e informe as URLs e o JWT secret. É necessário ter um login no __PlanetScale__ para configurar as credenciais no arquivo _.env_ do código.<br/>
 ```bash
-$ git clone https://github.com/Ruanfrm/NaTrave-api/
+$ git clone https://github.com/Ruanfrm/NaTrave-web.git
 ```
 * Back-end
 ```bash
