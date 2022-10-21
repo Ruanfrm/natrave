@@ -54,15 +54,7 @@ $ npm install
 $ npm run dev
 ```
 
-## :camera_flash: Pré-visualização
-<img src="https://raw.githubusercontent.com/rmatos10/natrave/master/web/public/img/screenshots/home.jpg" width="800" height="500" alt="NaTrave">
-<img src="https://raw.githubusercontent.com/rmatos10/natrave/master/web/public/img/screenshots/login.jpg" width="800" height="500" alt="NaTrave">
-<img src="https://raw.githubusercontent.com/rmatos10/natrave/master/web/public/img/screenshots/sign-up.jpg" width="800" height="600" alt="NaTrave">
-<img src="https://raw.githubusercontent.com/rmatos10/natrave/master/web/public/img/screenshots/dashboard.jpg" width="800" height="600" alt="NaTrave">
-<img src="https://raw.githubusercontent.com/rmatos10/natrave/master/web/public/img/screenshots/carregando.jpg" width="800" height="600" alt="NaTrave">
-<img src="https://raw.githubusercontent.com/rmatos10/natrave/master/web/public/img/screenshots/dashboard2.jpg" width="800" height="700" alt="NaTrave">
-<img src="https://raw.githubusercontent.com/rmatos10/natrave/master/web/public/img/screenshots/profile.jpg" width="800" height="700" alt="NaTrave">
-<img src="https://raw.githubusercontent.com/rmatos10/natrave/master/web/public/img/screenshots/nenhum-resultado.jpg" width="800" height="600" alt="NaTrave">
+
 
 ## :balance_scale: Licença
 Este projeto está licenciado sob a [licença MIT](LICENSE).
