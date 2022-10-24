@@ -13,7 +13,7 @@ export const Card = ({ disabled, gameId, homeTeam, awayTeam, homeTeamScore, away
     const [auth] = useLocalStorage('auth')
     const formik = useFormik({
         onSubmit: (values) => {
-            axios.post(import.meta.env.VITE_API_URL' + '/hunches', { ...values, gameId },
+            axios.post(import.meta.env.VITE_API_URL + '/hunches', { ...values, gameId },
                 { 
                     headers: {
                         authorization: `Bearer ${auth.accessToken}`
