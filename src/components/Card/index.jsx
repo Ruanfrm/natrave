@@ -39,7 +39,7 @@ export const Card = ({ disabled, gameId, homeTeam, awayTeam, homeTeamScore, away
     return (
         <div className="rounded-xl border border-gray-300 p-4 text-center space-y-4">
             <span className="text-sm md:text-base text-gray-700 font-bold">{gameTime}</span>
-            <form className="flex space-x-4 justify-center items-center">
+            <form className="flex space-x-3 justify-center items-center">
                 <span className="uppercase">{homeTeam}</span>
                 <img src={`/img/bandeiras/${homeTeam}.png`} />
                 <input
