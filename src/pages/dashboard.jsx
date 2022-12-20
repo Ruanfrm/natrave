@@ -7,7 +7,7 @@ import {format, formatISO} from 'date-fns'
 
  
 export const Dashboard = () => {
-  const [currentDate, setDate] = useState(formatISO(new Date))
+  const [currentDate, setDate] = useState(formatISO(new Date(2022,11,20)))
   const [auth] = useLocalStorage('auth', {})
 
   const [hunches, fetchHunches] = useAsyncFn(async() => {
